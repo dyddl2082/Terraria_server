@@ -1,0 +1,10 @@
+b257174b19ab638e9a2c61d4768223bf70432570 fix: Make _currentPlayerOverride thread-local. (#4868)
+b62efe88b6c6b0ede99ec0fd10989a8699151ab3 Fix Lots of Liquid Edge Rendering Bugs (#4860)
+3e691ffdc6db957fbb9de156f641c134f7d49b3c [Fix] Include missed LiquidEdgeRenderer case (#4851)
+b858fefbc2d67fbf0b44654bea74621dcb9d1ad0 fix: early return in drawtileinwater if not in world (#4850)
+760716fcc417541d6ccd1ffa25b9ca1d8f48dc58 Include tml-provided references as non-private to avoid copying them to mod output directories (#4845)
+9feb1207130a2746d8ccc68916d4fce4d367a22d Update MonoMod to 25.3.2 (Fix race condition when updating executing ILHook "Referenced cell no longer exists" )
+7a669628bebefa440d626b51287d2a8319d1062d fix linux WatchLocalization path (#4835)
+aa95f812c20dc89bbaf61a3715ad2ccdd6195221 Update zh-Hans tModLoader.json (#4836)
+1e0bfdcb655c60e3c682fffe23b6f94dd24a8dff Add Assembly Redirect for Steamworks.NET since the version has changed.
+995ad69d2b17aa5f5fb168ef54b5b8399967e26d CanDropFromRightClick docs
